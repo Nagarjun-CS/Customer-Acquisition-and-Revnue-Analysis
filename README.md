@@ -18,6 +18,6 @@ The dashboard was developed using **Excel** for data aggregation, **Python** for
 4. **Analysis**: Performed exploratory data analysis (EDA) to identify trends, patterns, and insights that help optimize marketing and sales efforts.
 
 ## Files in the Repository
-- **`customer_acquisition_analysis.py`**: This Python script contains the code for data cleaning, preprocessing, and initial exploratory data analysis (EDA).
-- **`customer_data.csv`**: The dataset file used for the analysis, which includes customer demographic information, product adoption data, and revenue details.
-- **`customer_acquisition_dashboard.twb`**: Tableau workbook file containing the visualizations and interactive dashboard for customer acquisition and revenue analytics.
+- **`Customer Acquisition and Revenue Analytics.ipynb`**: This Python script contains the code for data cleaning, preprocessing, and initial exploratory data analysis (EDA).
+- **`Travel_promotion_dataset.xlsx`**: The dataset file used for the analysis,which includes customer demographic information, product adoption data, and revenue details.
+- **`Tableau Dashboard (Promotion_dashboard)`**: Tableau dashboard png containing the visualizations and interactive dashboard for customer acquisition and revenue analytics.
